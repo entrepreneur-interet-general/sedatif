@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArchiveTransfer xmlns="fr:gouv:culture:archivesdefrance:seda:v2.1" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="_20180803092848817" xsi:schemaLocation="fr:gouv:culture:archivesdefrance:seda:v2.1 seda-2.1-main.xsd">
+    <Date>2018-08-03T09:32:04.402+02:00</Date>
+    <MessageIdentifier></MessageIdentifier>
+    <CodeListVersions>
+        <MessageDigestAlgorithmCodeListVersion>MessageDigestAlgorithmCode</MessageDigestAlgorithmCodeListVersion>
+        <MimeTypeCodeListVersion>MimeTypeCode</MimeTypeCodeListVersion>
+        <FileFormatCodeListVersion>FileFormatCode</FileFormatCodeListVersion>
+        <StorageRuleCodeListVersion>StorageRuleCode</StorageRuleCodeListVersion>
+        <AppraisalRuleCodeListVersion>AppraisalRuleCode</AppraisalRuleCodeListVersion>
+        <AccessRuleCodeListVersion>AccessRuleCode</AccessRuleCodeListVersion>
+        <DisseminationRuleCodeListVersion>DisseminationRuleCode</DisseminationRuleCodeListVersion>
+        <ReuseRuleCodeListVersion>ReuseRuleCode</ReuseRuleCodeListVersion>
+        <ClassificationRuleCodeListVersion>ClassificationRuleCode</ClassificationRuleCodeListVersion>
+    </CodeListVersions>
+    <DataObjectPackage>
+        <BinaryDataObject id="_20180803092917738">
+            <Uri>Content/140310-NotePlénière-Paquet-protection-des-données_20180803093204413.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">35953302058b907e59156d0fb8ee24e6a8c8f525c7912390c13660a8eb6abb48d5aacded1fdcf7d14d078c70109af22ae0e6454b9f4c4c51aea45e8ffc1b4b17</MessageDigest>
+            <Size>100749</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>140310-NotePlénière-Paquet-protection-des-données_20180803093204413.pdf</Filename>
+                <LastModified>2014-03-14T18:33:22.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <DescriptiveMetadata>
+            <ArchiveUnit id="_20180803092848843">
+                <Management/>
+                <Content>
+                    <DescriptionLevel>File</DescriptionLevel>
+                    <Title>Mentions de publication</Title>
+                    <CustodialHistory>
+                        <CustodialHistoryItem>docuteam-packer</CustodialHistoryItem>
+                        <CustodialHistoryItem>4.1.0-develop__siaf-SNAPSHOT</CustodialHistoryItem>
+                    </CustodialHistory>
+                    <Event>
+                        <EventIdentifier>_20180803092848845</EventIdentifier>
+                        <EventType>Creation</EventType>
+                        <EventDateTime>2018-08-03T09:28:48.000+02:00</EventDateTime>
+                        <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                    </Event>
+                </Content>
+                <ArchiveUnit id="_20180803092917751">
+                    <Management>
+                        <AppraisalRule>
+                            <Rule>test</Rule>
+                            <StartDate>2018-08-03</StartDate>
+                            <FinalAction>Keep</FinalAction>
+                        </AppraisalRule>
+                        <AccessRule>
+                            <Rule>AR038</Rule>
+                            <StartDate>2018-08-03</StartDate>
+                        </AccessRule>
+                    </Management>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>140310-NotePlénière-Paquet-protection-des-données_20180803093204413.pdf</Title>
+                        <Description>bla bla bla</Description>
+                        <CustodialHistory>
+                            <CustodialHistoryItem>bla bla bla</CustodialHistoryItem>
+                        </CustodialHistory>
+                        <Type>CDO</Type>
+                        <Language>fr</Language>
+                        <Keyword>
+                            <KeywordContent>testcollectivite</KeywordContent>
+                            <KeywordReference>TODO</KeywordReference>
+                            <KeywordType>corpname</KeywordType>
+                        </Keyword>
+                        <Keyword>
+                            <KeywordContent>textenomdefamille</KeywordContent>
+                            <KeywordReference>TODO</KeywordReference>
+                            <KeywordType>famname</KeywordType>
+                        </Keyword>
+                        <Keyword>
+                            <KeywordContent>testactivite</KeywordContent>
+                            <KeywordReference>TODO</KeywordReference>
+                            <KeywordType>function</KeywordType>
+                        </Keyword>
+                        <Keyword>
+                            <KeywordContent>testtypedocument</KeywordContent>
+                            <KeywordReference>TODO</KeywordReference>
+                            <KeywordType>genreform</KeywordType>
+                        </Keyword>
+                        <Keyword>
+                            <KeywordContent>testnomgeo</KeywordContent>
+                            <KeywordReference>TODO</KeywordReference>
+                            <KeywordType>geogname</KeywordType>
+                        </Keyword>
+                        <Keyword>
+                            <KeywordContent>testnom</KeywordContent>
+                            <KeywordReference>TODO</KeywordReference>
+                            <KeywordType>name</KeywordType>
+                        </Keyword>
+                        <Keyword>
+                            <KeywordContent>testfonction</KeywordContent>
+                            <KeywordReference>TODO</KeywordReference>
+                            <KeywordType>occupation</KeywordType>
+                        </Keyword>
+                        <Keyword>
+                            <KeywordContent>testnomdepersonne</KeywordContent>
+                            <KeywordReference>TODO</KeywordReference>
+                            <KeywordType>persname</KeywordType>
+                        </Keyword>
+                        <Keyword>
+                            <KeywordContent>testmotmatiere</KeywordContent>
+                            <KeywordReference>TODO</KeywordReference>
+                            <KeywordType>subject</KeywordType>
+                        </Keyword>
+                        <OriginatingAgency>
+                            <Identifier>testservicepro</Identifier>
+                        </OriginatingAgency>
+                        <StartDate>2014-03-14</StartDate>
+                        <EndDate>2014-03-14</EndDate>
+                        <Event>
+                            <EventIdentifier>_20180803092917768</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:29:17.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092917738</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+            </ArchiveUnit>
+        </DescriptiveMetadata>
+        <ManagementMetadata/>
+    </DataObjectPackage>
+    <ArchivalAgency>
+        <Identifier>arch01</Identifier>
+    </ArchivalAgency>
+    <TransferringAgency>
+        <Identifier>prod01</Identifier>
+    </TransferringAgency>
+</ArchiveTransfer>

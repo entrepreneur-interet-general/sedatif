@@ -1,0 +1,2092 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArchiveTransfer xmlns="fr:gouv:culture:archivesdefrance:seda:v2.1" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="_20180803092611733" xsi:schemaLocation="fr:gouv:culture:archivesdefrance:seda:v2.1 seda-2.1-main.xsd">
+    <Date>2018-08-03T09:28:16.903+02:00</Date>
+    <MessageIdentifier></MessageIdentifier>
+    <CodeListVersions>
+        <MessageDigestAlgorithmCodeListVersion>MessageDigestAlgorithmCode</MessageDigestAlgorithmCodeListVersion>
+        <MimeTypeCodeListVersion>MimeTypeCode</MimeTypeCodeListVersion>
+        <FileFormatCodeListVersion>FileFormatCode</FileFormatCodeListVersion>
+        <StorageRuleCodeListVersion>StorageRuleCode</StorageRuleCodeListVersion>
+        <AppraisalRuleCodeListVersion>AppraisalRuleCode</AppraisalRuleCodeListVersion>
+        <AccessRuleCodeListVersion>AccessRuleCode</AccessRuleCodeListVersion>
+        <DisseminationRuleCodeListVersion>DisseminationRuleCode</DisseminationRuleCodeListVersion>
+        <ReuseRuleCodeListVersion>ReuseRuleCode</ReuseRuleCodeListVersion>
+        <ClassificationRuleCodeListVersion>ClassificationRuleCode</ClassificationRuleCodeListVersion>
+    </CodeListVersions>
+    <DataObjectPackage>
+        <BinaryDataObject id="_20180803092611901">
+            <Uri>Content/140310-NotePlénière-Paquet-protection-des-données_20180803092816914.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">35953302058b907e59156d0fb8ee24e6a8c8f525c7912390c13660a8eb6abb48d5aacded1fdcf7d14d078c70109af22ae0e6454b9f4c4c51aea45e8ffc1b4b17</MessageDigest>
+            <Size>100749</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>140310-NotePlénière-Paquet-protection-des-données_20180803092816914.pdf</Filename>
+                <LastModified>2014-03-14T18:33:22.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092617915">
+            <Uri>Content/2013 0221 af Tableau 3 colonnes_ Art1 à 21 et 81 à 83_Loi78_PropRéglement_Réunion22février2013_20180803092816915.doc</Uri>
+            <MessageDigest algorithm="SHA-512">9cab3b7bf0e8d63bde2421cc418567aa941f7e1f435e72939f340b6a78172c3df7b77c1d89bd134f95cb616e87f92139417506c680f79fea8b1cc7d1ca38c997</MessageDigest>
+            <Size>313856</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word Document</FormatLitteral>
+                <MimeType>application/msword</MimeType>
+                <FormatId>fmt/40</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>2013 0221 af Tableau 3 colonnes_ Art1 à 21 et 81 à 83_Loi78_PropRéglement_Réunion22février2013_20180803092816915.doc</Filename>
+                <LastModified>2013-02-21T18:51:14.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092620894">
+            <Uri>Content/922387en_20180803092816917.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">848745c0a85bac6c693a00679d7d92c466ae6a615d1694e36c33b556fb07acee6ddce56fd60dcc51ba06d5f9e146be12044688d75a1b34c2904d6937dcddee68</MessageDigest>
+            <Size>753431</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.3 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/17</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>922387en_20180803092816917.pdf</Filename>
+                <LastModified>2013-01-27T08:32:00.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092621250">
+            <Uri>Content/Art 83c juin 2014_20180803092816918.docx</Uri>
+            <MessageDigest algorithm="SHA-512">6ecec40fc83f27f06ed04dd136bbf17223bf9f67ad6dca6a9c7e4439f764b9f444be33bfe134c2b9af878a5d7d28bfea11c808178a623529227cb90fb7147be0</MessageDigest>
+            <Size>21227</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Art 83c juin 2014_20180803092816918.docx</Filename>
+                <LastModified>2014-09-15T13:58:14.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092621430">
+            <Uri>Content/avis GADS sur projet réglt UE_20180803092816919.docx</Uri>
+            <MessageDigest algorithm="SHA-512">33ede7fea74b9312f653646ca5f4e42d4763ccd308bbc1a11af5e5388ff4b7b8f8950766d2d65c849899b095a4a1d28f4c145527bd764e24b7616228a2efbff4</MessageDigest>
+            <Size>19645</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>avis GADS sur projet réglt UE_20180803092816919.docx</Filename>
+                <LastModified>2013-02-13T11:20:16.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092621598">
+            <Uri>Content/BBMRI ERIC_Data Protection Day of Action_Concept-1_20180803092816920.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">9f3a692c03a87fecff2166daa6a13dbf6e875bece3502492eb2b089ec394e72fcf5fe5b5f4bdcb7362735bae394aede8af031a7d0abddbdfc35b8d9cf708f903</MessageDigest>
+            <Size>745679</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>BBMRI ERIC_Data Protection Day of Action_Concept-1_20180803092816920.pdf</Filename>
+                <LastModified>2015-04-18T11:40:10.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092621811">
+            <Uri>Content/cm05749en13_déc2013_20180803092816921.doc</Uri>
+            <MessageDigest algorithm="SHA-512">3993e4467657d112dd0aaf675e8fd6c13f4ae65914c6835b54e7d7c4e1378d70cf42d63cab0f036056cdce8f83cea6e1a8ba893822857ae5ea9921d2c3fdd850</MessageDigest>
+            <Size>65536</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word Document</FormatLitteral>
+                <MimeType>application/msword</MimeType>
+                <FormatId>fmt/40</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>cm05749en13_déc2013_20180803092816921.doc</Filename>
+                <LastModified>2014-01-03T11:01:02.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092621867">
+            <Uri>Content/comparaison documents Règlement DAPIX COREPER_20180803092816922.docx</Uri>
+            <MessageDigest algorithm="SHA-512">98c6f4c2b48a2e3e45a07789577ea03de19f655dbf567b5f84104123f56ce87ea3a833ddeec385a17a19ae09039c80673c6d3bafac238ea20a1ff563e9d6ce1a</MessageDigest>
+            <Size>316830</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>comparaison documents Règlement DAPIX COREPER_20180803092816922.docx</Filename>
+                <LastModified>2015-12-07T11:26:46.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092622010">
+            <Uri>Content/Compil RGPDP 301115_20180803092816923.docx</Uri>
+            <MessageDigest algorithm="SHA-512">75fa6e1a97e708ce17c9f0255b597aa8261870a687d8d9fe0d4d6de446fbd4377e6855d2eab05155a7f8bda9ea1c254af021c5b4abf692e77a4830099a098ea1</MessageDigest>
+            <Size>25487</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Compil RGPDP 301115_20180803092816923.docx</Filename>
+                <LastModified>2015-11-30T14:40:12.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092622386">
+            <Uri>Content/comp_am_art_01-29en - albrecht_20180803092816934.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">45fad05f4affa496a54a80c5c1746388521c16d01a33993236dbc023abbc60ca787831c40f1a02af8fc4faf108e8ba113222b390cc76224006303e893660998d</MessageDigest>
+            <Size>765049</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.3 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/17</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>comp_am_art_01-29en - albrecht_20180803092816934.pdf</Filename>
+                <LastModified>2013-10-24T19:10:22.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092622813">
+            <Uri>Content/comp_am_art_30-91en - albrecht _20180803092816944.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">2db5552f6306ecbb4cfe909e655c01cd5f327f882bfb742c02b34d6f3d534b4365c6d7162750a2679496d50ea9773067f73fee6ce395ab814d24373bcf711ed1</MessageDigest>
+            <Size>516386</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.3 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/17</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>comp_am_art_30-91en - albrecht _20180803092816944.pdf</Filename>
+                <LastModified>2013-10-31T15:59:08.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092623129">
+            <Uri>Content/com_2012_11_fr_20180803092816954.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">6ea729081655814ad44f100c9819b6a17acd835d183b6015b81d40d87d8f39fef71eb6e9a81ff86d1e24178ffdc72bd3899dad2e320594e9202d40193cbe1a01</MessageDigest>
+            <Size>488232</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.4 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/18</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>com_2012_11_fr_20180803092816954.pdf</Filename>
+                <LastModified>2012-07-13T11:29:50.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092623461">
+            <Uri>Content/courrier aviesan du 271114_20180803092816955.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">24ab62b0d4c39d82b92352fcc1dda22127213bbb721ffde263afe7afc861c57ea72d57c7ad0651e4451bd2d29d479bf3287c41d51d8e54b5aa5e5a1caef2f712</MessageDigest>
+            <Size>406816</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>courrier aviesan du 271114_20180803092816955.pdf</Filename>
+                <LastModified>2015-01-13T15:21:30.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092623632">
+            <Uri>Content/CP DSF Allo, la NSA _ Ici c’est le Parlement européen ! 21 10 2013_20180803092816956.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">389fed5bdc92b34ef509f030895d43d1433a6a4d0ce8be0e1d02f289aa10f73b24a579f3279163b04c2602a222c609fd7f3fd55b7cc5757fcd439413d4049bdb</MessageDigest>
+            <Size>129291</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.3 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/17</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>CP DSF Allo, la NSA _ Ici c’est le Parlement européen ! 21 10 2013_20180803092816956.pdf</Filename>
+                <LastModified>2013-10-24T19:10:24.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092623781">
+            <Uri>Content/CP LIBE 211013 adoptée du parquet protection des données_20180803092816957.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">3bf22fde6e8984aa38ff32ff5b4642c27f7fd756387eae08ae52085129bfe4452b314b14d6c55cd16ef15da6477433a1d00303b6ee7538a793e0949a6afe1d9c</MessageDigest>
+            <Size>234859</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.3 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/17</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>CP LIBE 211013 adoptée du parquet protection des données_20180803092816957.pdf</Filename>
+                <LastModified>2013-10-24T19:10:24.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092623841">
+            <Uri>Content/CR COREPER II 080513_20180803092816959.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">8a6614995c80da2f8b72a27f6145abbe43e3048265adf48c1a95a570d8be432d98171bb8a59491f71c789684494cdb3fd3471b127f7f50b48a21c131a8bcbadc</MessageDigest>
+            <Size>256147</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>CR COREPER II 080513_20180803092816959.pdf</Filename>
+                <LastModified>2013-06-05T16:46:18.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092623912">
+            <Uri>Content/CRP-27-05-15 Règlement Protection des données_20180803092816960.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">0c99e1556670a5ff577507d333af8d8bf1a7f50f0f419f169c0145ab6aa67f49884b62bb78a39b7ae5fd525e730cbbe116f6c416f275428e205d5b36fa13c0bc</MessageDigest>
+            <Size>62207</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>CRP-27-05-15 Règlement Protection des données_20180803092816960.pdf</Filename>
+                <LastModified>2015-05-29T17:28:30.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092624711">
+            <Uri>Content/Data Protection - reform for SMEs not at their expense_20180803092816961.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">ed03467ddc8882a7daf89591742ab7788dcf8fc2ee7c10d36dd530f360f2dde6a0bc3d1541f5ddb0e32c5a223030f97f391ae1ae56f72f509832cb246a8898c3</MessageDigest>
+            <Size>384060</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Data Protection - reform for SMEs not at their expense_20180803092816961.pdf</Filename>
+                <LastModified>2013-03-27T09:43:02.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092624869">
+            <Uri>Content/Data Protection_Compromise Amendments_10072013_20180803092816962.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">406e675e16e561c8c67916997c48391168009a0f865b791707c146186fa5eb8698151584806e168e9a8f697a862d2ec1252f7342e134bb4c96fb12a8b986beab</MessageDigest>
+            <Size>364972</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.6 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/20</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Data Protection_Compromise Amendments_10072013_20180803092816962.pdf</Filename>
+                <LastModified>2013-09-17T16:21:04.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092625175">
+            <Uri>Content/Déclaration Adelf Règlement européen données perso-V1-MG__20180803092816964.docx</Uri>
+            <MessageDigest algorithm="SHA-512">90a1ded332c7a51ca03e4e190a7815959a8b5aa124c72f0901f41e6dd16e0c0d6530f4f502333049bfb38400cd23ff689d9d82e6c7967af502673813085c0d66</MessageDigest>
+            <Size>21583</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Déclaration Adelf Règlement européen données perso-V1-MG__20180803092816964.docx</Filename>
+                <LastModified>2013-02-04T18:43:28.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092625320">
+            <Uri>Content/Déclaration Adelf Règlement européen données perso-V2-MG_20180803092816965.docx</Uri>
+            <MessageDigest algorithm="SHA-512">32fbb948b2a0816eddd749d75d0148339cd7be4585f4e5d0c85b078cabf3dfe918f40e93c19713aa920bb2efd51e7d2222dcd00442e841a646c399e112f0199f</MessageDigest>
+            <Size>22303</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Déclaration Adelf Règlement européen données perso-V2-MG_20180803092816965.docx</Filename>
+                <LastModified>2013-02-07T12:41:26.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092625383">
+            <Uri>Content/ESBA, CEA-PME, FSB, ACT recommendations on Data Protection - reform for SMEs not at their expense_20180803092816966.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">9c36331fbba4aa6601f4b1f97720f58fc59f993a5e72c06b799dcbc820ca1808ae5ab7d705235dc62dc6db70d06ce73adb2234d6786ca6dae8a9bba147e50cfd</MessageDigest>
+            <Size>477832</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>ESBA, CEA-PME, FSB, ACT recommendations on Data Protection - reform for SMEs not at their expense_20180803092816966.pdf</Filename>
+                <LastModified>2013-03-27T09:43:02.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092625583">
+            <Uri>Content/ESBA- CEA-PME-FSB-ACT - Suggestions for amendments_20180803092816968.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">00924711cd7510da2b1491a539fad325d74d7dff0225630c85afdffe8467cc1c2872bdab143d0b70713e286950e50ffd3b220d98ad20b179e35dc9575b547ecf</MessageDigest>
+            <Size>561117</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>ESBA- CEA-PME-FSB-ACT - Suggestions for amendments_20180803092816968.pdf</Filename>
+                <LastModified>2013-03-27T09:43:02.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092625769">
+            <Uri>Content/EU Council-Regulation-Council-Draft-Dec14_20180803092816969.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">3f864ebc0569e3337c71251a422df40e89800f928a0fdf83e904e465b05e28c5afef8f25f16f0c67494b54f246f0b3ace1d2f5c27a7a8fb11c6b90df31464522</MessageDigest>
+            <Size>707572</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.7 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/276</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>EU Council-Regulation-Council-Draft-Dec14_20180803092816969.pdf</Filename>
+                <LastModified>2015-04-18T11:40:10.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092625898">
+            <Uri>Content/Fiche Safe Habor octobre 2015_20180803092816970.docx</Uri>
+            <MessageDigest algorithm="SHA-512">27fb169434df48855308560b86e066e6ab0882fecfc743b3b5aeb4026f008ee08a5028dda08d2cf77f4055c144b1b64331080f16a45c6e03bdb129222b68b754</MessageDigest>
+            <Size>29901</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Fiche Safe Habor octobre 2015_20180803092816970.docx</Filename>
+                <LastModified>2015-10-23T14:47:16.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092625993">
+            <Uri>Content/getDoc (1)_20180803092816971.doc</Uri>
+            <MessageDigest algorithm="SHA-512">ff5d518211b22232f6b8dbd30fb19c0479cb5dd39f53eb9d8784f153914c1f44ca1240016caa54d6cbb5241c81f2bed7174c4b167b1a50999800e422cd51c0f9</MessageDigest>
+            <Size>2149888</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word Document</FormatLitteral>
+                <MimeType>application/msword</MimeType>
+                <FormatId>fmt/40</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>getDoc (1)_20180803092816971.doc</Filename>
+                <LastModified>2014-03-13T15:13:26.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092626369">
+            <Uri>Content/image002_20180803092816973.jpg</Uri>
+            <MessageDigest algorithm="SHA-512">fca2c5b9d85e114786987b296d374036fe5db039c070c254689b0e8ac7d9d6f043a9ec1db2e34c8fe68101ba34239261ad7521c09771a1735b9ce89977b035bc</MessageDigest>
+            <Size>6888</Size>
+            <FormatIdentification>
+                <FormatLitteral>JPEG File Interchange Format</FormatLitteral>
+                <MimeType>image/jpeg</MimeType>
+                <FormatId>fmt/43</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>image002_20180803092816973.jpg</Filename>
+                <LastModified>2015-12-07T11:26:46.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092626416">
+            <Uri>Content/IP-15-5176_FR_20180803092816974.PDF</Uri>
+            <MessageDigest algorithm="SHA-512">e1264f56f01793d078df5ce772b0afb0c6096a9a8c0c34668d98582f8682bcd946a3973a51dfd291341b05ef9306c6a37255d225724465d39198e6eef7c97834</MessageDigest>
+            <Size>63144</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.4 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/18</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>IP-15-5176_FR_20180803092816974.PDF</Filename>
+                <LastModified>2015-06-24T17:08:52.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092626472">
+            <Uri>Content/JUD00019-14 DAPIX (Reglement) - Article 811_20180803092816975.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">f5ef9dc7a90db69bf1eddc9ba83a64f0e7b6eb672f20a542c68c119a8d8f405445b706934b4db04f006cd8d7b36b7c499f567402e627fd46ee1c4f4d57740d3e</MessageDigest>
+            <Size>49295</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>JUD00019-14 DAPIX (Reglement) - Article 811_20180803092816975.pdf</Filename>
+                <LastModified>2014-01-14T17:49:00.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092626606">
+            <Uri>Content/JUD00252-13 DAPIX 13-15 mai (Reglement)_20180803092816976.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">7afb92df9e02f8d0f4391119cd983da729278ba8550cae71236d2396e07ffbe1e406a81fa29b580c06e3ac2d7c49d48aaf2140b4bff5a53e44fcb09af9a6e20c</MessageDigest>
+            <Size>1433672</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>JUD00252-13 DAPIX 13-15 mai (Reglement)_20180803092816976.pdf</Filename>
+                <LastModified>2013-05-13T12:32:24.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092626902">
+            <Uri>Content/JUD00372-13 DAPIX 3-4 juillet (Reglement)1_20180803092816978.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">d5b04e4b399f00dd913e5a2b9ed707ee8214d4d65886966a428597e1a3f6fb05f2c65ba3e0fb264db08607f6e49e5a77235f4b12f82a41212101ea83204318e4</MessageDigest>
+            <Size>109834</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>JUD00372-13 DAPIX 3-4 juillet (Reglement)1_20180803092816978.pdf</Filename>
+                <LastModified>2013-07-11T14:02:34.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092627003">
+            <Uri>Content/JUD00509-13 DAPIX (reglement) - articles 83abc1_20180803092816979.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">922b67fcaaebca4e119479769151446260c9d608563e643c65052862be03fedfd8d96719434aeb6099f2fb09c455f78281fde35307dff703185503f721cc0a49</MessageDigest>
+            <Size>74353</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>JUD00509-13 DAPIX (reglement) - articles 83abc1_20180803092816979.pdf</Filename>
+                <LastModified>2013-10-10T14:34:54.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092627107">
+            <Uri>Content/JUD00509-13 DAPIX (reglement) - articles 83abc[1]_NAF_20180803092816980.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">629816b21e9fc93e474c69f43244470802411eb71bcf77dd187294dd030ddcb9ebe07c396658381cb2a691f25228ef2b4614a86636f9d5f74dfc7a63f10d8692</MessageDigest>
+            <Size>74340</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>JUD00509-13 DAPIX (reglement) - articles 83abc[1]_NAF_20180803092816980.pdf</Filename>
+                <LastModified>2014-01-03T11:01:10.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092627222">
+            <Uri>Content/JUD00509-14 DAPIX (Rglmt) 30 sept- 1er oct1_20180803092816981.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">86b78bf2c99612cfc43ee39d99b6a57ba921d86ce3e382efbb5cfd9b8e619ba09256244f306c50a0fc3bc0cbeb865211b5d94787d65ae57044b6349882ac76df</MessageDigest>
+            <Size>89199</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>JUD00509-14 DAPIX (Rglmt) 30 sept- 1er oct1_20180803092816981.pdf</Filename>
+                <LastModified>2014-10-13T18:00:58.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092627319">
+            <Uri>Content/JUD00591-15 CR réunion conséquences de l'arrêt SCHREMS du 20 oct 2015_20180803092816982.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">8773131c2e1b630bb77b2414da44a967c60b791f94795c8eacc1e0b5d31d23c402ac22e7e5b813d1dc6b647db28bd9d4540dfb4ed8653cff3c59d15650922dfc</MessageDigest>
+            <Size>475146</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF/A - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/95</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>JUD00591-15 CR réunion conséquences de l'arrêt SCHREMS du 20 oct 2015_20180803092816982.pdf</Filename>
+                <LastModified>2015-10-23T14:45:40.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092627472">
+            <Uri>Content/LEEM - Dr ERRARD_20180803092816983.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">2eaaf83338a13bc5208cf2a67aafd41f75879cae610fb2f665b31e5c9882a38fedcd357954cf11a7760f13be45e0ede1da97a58cd9779e7a94fa79505e584c57</MessageDigest>
+            <Size>186472</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.4 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/18</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>LEEM - Dr ERRARD_20180803092816983.pdf</Filename>
+                <LastModified>2014-03-14T12:10:02.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092627639">
+            <Uri>Content/lettre pdt grp statistiques_20180803092816993.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">0a3bfbee758a9c754b8e40b32460acd73c89ff233dc30bc7532afb060abf1acf497ac92ad823fa795e5c6a4e4aa0050402f147b06e5501a2576d5cf7cd2abf65</MessageDigest>
+            <Size>857563</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.3 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/17</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>lettre pdt grp statistiques_20180803092816993.pdf</Filename>
+                <LastModified>2013-02-21T18:47:42.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092627833">
+            <Uri>Content/Making the Case GDPR_template_V2.0_20180803092817003.docx</Uri>
+            <MessageDigest algorithm="SHA-512">3104e6298edebd431ce4cef51ee0faae0272da9a2a0201b06e72d5c71d930530898797ac9bfd7110b31c27a2bc3c6364792f4c3142b78caa3d9e843c53ce2d4a</MessageDigest>
+            <Size>23101</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Making the Case GDPR_template_V2.0_20180803092817003.docx</Filename>
+                <LastModified>2015-04-18T11:40:10.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092627967">
+            <Uri>Content/MEMO-14-186_EN_20180803092817013.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">f31256ba817a3568ce34f27ae3e10100792ee8d4aff5416e23d13280e72a643a17b7a99ae6e3f14f4d91b20b76711b72723528ce4ce64b014933a1da94f12feb</MessageDigest>
+            <Size>369012</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.7 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/276</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>MEMO-14-186_EN_20180803092817013.pdf</Filename>
+                <LastModified>2014-03-12T15:06:58.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092628213">
+            <Uri>Content/MX-M362N_20130211_143019_20180803092817014.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">9a4fe03a15320f652c2b326d8a9878aa9ec717c04e38d8c565bbb6bf6111bb3d8977faa761ce16e469b6f04a3f8f36eaa4e32b46df75734c5ee7147137560005</MessageDigest>
+            <Size>1773915</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.4 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/18</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>MX-M362N_20130211_143019_20180803092817014.pdf</Filename>
+                <LastModified>2013-02-14T12:08:04.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092628581">
+            <Uri>Content/Note cab protection des données 110515_20180803092817015.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">c74229ff35408cb1551c26983d141ee5fe33c086f8154d6dfb157b0868bb24226e1586e315d9bd4a7b9faae5c34a21178d49cb5fcfa7743350f4c38ad8c3958e</MessageDigest>
+            <Size>970564</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.5 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/19</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Note cab protection des données 110515_20180803092817015.pdf</Filename>
+                <LastModified>2015-11-27T15:45:48.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092628905">
+            <Uri>Content/Note Réglement InVS V1_20180803092817016.doc</Uri>
+            <MessageDigest algorithm="SHA-512">98e8345505968e3f57dcdf0406a6240c56ec30cedc5759bc22df5a32761df0d6b872c90d0b4b79c214a5e96c0cd9f46e8d9be0b19917f0cb439b2da16cec8184</MessageDigest>
+            <Size>89600</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word Document</FormatLitteral>
+                <MimeType>application/msword</MimeType>
+                <FormatId>fmt/40</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Note Réglement InVS V1_20180803092817016.doc</Filename>
+                <LastModified>2013-02-13T11:25:46.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092629086">
+            <Uri>Content/Observations CNAMTS Rapport IDS Parlement 2014_19sept2014_20180803092817018.docx</Uri>
+            <MessageDigest algorithm="SHA-512">39d1c7dd7a4d2c9c8a3e271360c3b796141576fc9b0c752f7e3679a28adb528350fed58bc31b1fc0d976fe0f5dbe1d47a45277613eb53f0eb8d707c667ec0483</MessageDigest>
+            <Size>1796064</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Observations CNAMTS Rapport IDS Parlement 2014_19sept2014_20180803092817018.docx</Filename>
+                <LastModified>2014-09-24T12:06:32.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092629555">
+            <Uri>Content/Point d'étape règlement européen protection des données personnelles_20180803092817019.msg</Uri>
+            <MessageDigest algorithm="SHA-512">ec86669c132aa58a251b0a87ab71a8e66f2f5b1bd51d72a8d996d67e95766cb5948b31633b26ae76741c162d59913db1976d772a6380ff6cbafcbf49873b0c71</MessageDigest>
+            <Size>388608</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Outlook Email Message</FormatLitteral>
+                <MimeType></MimeType>
+                <FormatId>x-fmt/430</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Point d'étape règlement européen protection des données personnelles_20180803092817019.msg</Filename>
+                <LastModified>2015-11-27T15:45:08.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092630067">
+            <Uri>Content/Projet de Règlement - Version Cilex avec table et renvois_20180803092817020.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">d850ac6eacd45c96f95e748514973f198d3e7dbb36ac26865241941bba4ee739c4af2466ddd656feb743d2ff7b74b7fcacd04742cbdaa9a189bda4b51fed314d</MessageDigest>
+            <Size>433750</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.4 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/18</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Projet de Règlement - Version Cilex avec table et renvois_20180803092817020.pdf</Filename>
+                <LastModified>2013-01-29T08:06:08.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092630533">
+            <Uri>Content/Projet Europe Protection données-17 12 2012_20180803092817021.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">f598e78ad49ed5eb53559496dbabc9767bb57d2250c5bae25c31e99252a88a14133604548f1e914c3baf288d933f8a2f5ece50528b50d691207c40061965a164</MessageDigest>
+            <Size>809472</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.3 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/17</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Projet Europe Protection données-17 12 2012_20180803092817021.pdf</Filename>
+                <LastModified>2013-02-25T17:50:00.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092630942">
+            <Uri>Content/Protection des données personnelles Projet de réglement Européen-Synthèse de la position de la Cnaf-janvier 2013_mns_20180803092817022.doc</Uri>
+            <MessageDigest algorithm="SHA-512">8d3ebee340b8de84c176b028d3861c197bb6b6749c0f8139b00e53e4971a95f5fe70e2f33db56ea1e341aec9e62e895e38fe2cdcae17959d1eee99215b62595a</MessageDigest>
+            <Size>50688</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word Document</FormatLitteral>
+                <MimeType>application/msword</MimeType>
+                <FormatId>fmt/40</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Protection des données personnelles Projet de réglement Européen-Synthèse de la position de la Cnaf-janvier 2013_mns_20180803092817022.doc</Filename>
+                <LastModified>2013-02-14T18:26:32.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092631096">
+            <Uri>Content/Rapport Albrecht_20180803092817024.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">7aabad95f0737420a0b2d74a1885c24256bdb328b0a95db5fdb8f39ad8e547107ef109d944f875add23eea449a65cf30291edd664618d407c5e056f80ea83d0e</MessageDigest>
+            <Size>1200110</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.4 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/18</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Rapport Albrecht_20180803092817024.pdf</Filename>
+                <LastModified>2013-02-04T10:16:16.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092631457">
+            <Uri>Content/Règlement protection des données -Tableau comparatif commission PE FR D 95-46 et LIL actualisé DGS + DRESS  (2)_20180803092817025.doc</Uri>
+            <MessageDigest algorithm="SHA-512">a81d4c1a129fd33eeb90877d6d655e1db8394401ba0066c0572949fbc80f238cdb4ae0f694d3a769115112ea7ef49e29a2e6230a1121d22cbd8ccbcc9226cb74</MessageDigest>
+            <Size>1231872</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word Document</FormatLitteral>
+                <MimeType>application/msword</MimeType>
+                <FormatId>fmt/40</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Règlement protection des données -Tableau comparatif commission PE FR D 95-46 et LIL actualisé DGS + DRESS  (2)_20180803092817025.doc</Filename>
+                <LastModified>2013-02-15T11:59:38.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092631785">
+            <Uri>Content/Règlement protection des données -Tableau comparatif commission PE FR D 95-46 et LIL actualisé DGS + DRESS  (2)_20180803092817026.docx</Uri>
+            <MessageDigest algorithm="SHA-512">fa5840533890c4dae6988610a12f831db7b068495865133b0e0d86a84724483b8f20731ab1ecdc417278e9d48d8987c3457329151ef07388d607417bea959c3f</MessageDigest>
+            <Size>402966</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Règlement protection des données -Tableau comparatif commission PE FR D 95-46 et LIL actualisé DGS + DRESS  (2)_20180803092817026.docx</Filename>
+                <LastModified>2013-02-13T14:29:06.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092631996">
+            <Uri>Content/ST08309 EN15_20180803092817027.docx</Uri>
+            <MessageDigest algorithm="SHA-512">c1c9e1bea852179f2ff79c203403765e131ee511d4c189018d400f58aa2b6616f5ebeb85307408ba4dfe02c04c0de4be04a3b560cfe720c812ba024da716569e</MessageDigest>
+            <Size>59430</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>ST08309 EN15_20180803092817027.docx</Filename>
+                <LastModified>2015-04-30T18:51:00.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092632180">
+            <Uri>Content/ST09565.FR15[1]_20180803092817029.DOCX</Uri>
+            <MessageDigest algorithm="SHA-512">52865efbd61bb8fea204129efaefabf24920a67fb54598a3a08ab90c574271c93fe41593e4e100902d5d01dd6dfda51dcb0e0b068ff1df48c247caeb5915ad42</MessageDigest>
+            <Size>317840</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>ST09565.FR15[1]_20180803092817029.DOCX</Filename>
+                <LastModified>2015-06-24T17:14:32.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092632324">
+            <Uri>Content/ST14270-RE01 EN14_20180803092817030.DOC</Uri>
+            <MessageDigest algorithm="SHA-512">6fe812f23678c204deb7fd19c84b61571954e64ce0880429506445bbcc0cb96aa8f4a3aec5c4a576b38c61ce810aeefdc1374f1154444f2e34575162fa7c9e61</MessageDigest>
+            <Size>233472</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word Document</FormatLitteral>
+                <MimeType>application/msword</MimeType>
+                <FormatId>fmt/40</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>ST14270-RE01 EN14_20180803092817030.DOC</Filename>
+                <LastModified>2014-11-03T15:39:00.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092632480">
+            <Uri>Content/st14481.en15_20180803092817032.docx</Uri>
+            <MessageDigest algorithm="SHA-512">eead975694cf6f2c03e01da1ac46dce20d6101d8dba7d2bee355d60512685e63d470244b92fa617c5b25e4e481fe98fc40b08368f4d252cec7055bd2d2a43df8</MessageDigest>
+            <Size>248654</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>st14481.en15_20180803092817032.docx</Filename>
+                <LastModified>2015-11-30T14:38:58.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092632631">
+            <Uri>Content/st14901.en15_20180803092817033.docx</Uri>
+            <MessageDigest algorithm="SHA-512">95092624e4d749ec20d55be11795bf64a4e751fa1c111ae2d0dda8d119e54d7425c17626595c8b056d56fbd0f310de279c5f65fdcfef2dfe1446281977ce683a</MessageDigest>
+            <Size>60436</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>st14901.en15_20180803092817033.docx</Filename>
+                <LastModified>2015-12-07T11:26:46.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092632722">
+            <Uri>Content/st16140 en14_20180803092817034.doc</Uri>
+            <MessageDigest algorithm="SHA-512">2c99fccdab899719dac2c4a54498abdc451bd0d57b62123431400fbb22da9850c8b0cc6cadc52002e48df0390d1196b341464149d9c3391655ea63dd6322eadc</MessageDigest>
+            <Size>156672</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word Document</FormatLitteral>
+                <MimeType>application/msword</MimeType>
+                <FormatId>fmt/40</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>st16140 en14_20180803092817034.doc</Filename>
+                <LastModified>2014-12-03T10:29:32.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092632836">
+            <Uri>Content/st17971.en13_20180803092817035.doc</Uri>
+            <MessageDigest algorithm="SHA-512">70a5940e8fd375ed97c5d705b18816f6cea67a8f03649dd5792122934fda6f73c0bf22e541cc40837d6123baef8dec09d26657daa7b7470bea940ce10821e35b</MessageDigest>
+            <Size>56320</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word Document</FormatLitteral>
+                <MimeType>application/msword</MimeType>
+                <FormatId>fmt/40</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>st17971.en13_20180803092817035.doc</Filename>
+                <LastModified>2014-01-03T11:01:02.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092632910">
+            <Uri>Content/TD COREPER 240513_20180803092817037.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">3c2910d7d14d8753507b9f003bd69827b7b73b5fbe92bbb5ef92e99faad21c8227d1524ccb6e08c7e5000d8a7866aa4357389771150e99715ca9191bdc01a715</MessageDigest>
+            <Size>212151</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.4 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/18</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>TD COREPER 240513_20180803092817037.pdf</Filename>
+                <LastModified>2013-06-10T19:51:38.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092633174">
+            <Uri>Content/TD DAPIX 13 15 05 13_20180803092817038.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">6ba758e6620916cb875b1a9be7f432976041ea4517d9c8e5d1bd6c8b45a1824839cfe0e63e345a8134c32714657e8862cb1cb427ec514a4734db57dd4bdc1aa7</MessageDigest>
+            <Size>672771</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF 1.4 - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/18</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>TD DAPIX 13 15 05 13_20180803092817038.pdf</Filename>
+                <LastModified>2013-06-10T19:50:42.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092633362">
+            <Uri>Content/texte agréé chap II VI VII_20180803092817039.DOCX</Uri>
+            <MessageDigest algorithm="SHA-512">1d7c013c888a7880731ecaa1de9c6857ce1d25b761738f8ed29d6fb28205a6cd2b3960b96df7cc88ccbb1ea38a863a97f31f8adf0ba4e21bf58ad971ca24e1fd</MessageDigest>
+            <Size>196442</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word for Windows</FormatLitteral>
+                <MimeType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</MimeType>
+                <FormatId>fmt/412</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>texte agréé chap II VI VII_20180803092817039.DOCX</Filename>
+                <LastModified>2015-04-01T18:56:36.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092633641">
+            <Uri>Content/Texte ParlementST07427.EN14_20180803092817040.DOC</Uri>
+            <MessageDigest algorithm="SHA-512">aefad400441d27793d9a55b3cb70466c706a56f15c572bd59f0a4c07ae43af29fe7b454f0c8619affe56ae19ba12ba94a43c5402b2b7d226dc25eff43f316c37</MessageDigest>
+            <Size>1302528</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word Document</FormatLitteral>
+                <MimeType>application/msword</MimeType>
+                <FormatId>fmt/40</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>Texte ParlementST07427.EN14_20180803092817040.DOC</Filename>
+                <LastModified>2014-03-24T16:29:34.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092634103">
+            <Uri>Content/TR proposition de règlement relatif à la protection des personnes à l'égard du traitement des données à caractère personnel_20180803092817041.rtf</Uri>
+            <MessageDigest algorithm="SHA-512">ecb767de328d896168ef9fdc307d17064bb43d6bfa88dcd6259f2a144a03e618dd0b916bc930e0b1ab6dff82042358da1e0ca97ca970dbe4392bb718c0a62bd5</MessageDigest>
+            <Size>1054040</Size>
+            <FormatIdentification>
+                <FormatLitteral>Rich Text Format</FormatLitteral>
+                <MimeType>application/rtf, text/rtf</MimeType>
+                <FormatId>fmt/50</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>TR proposition de règlement relatif à la protection des personnes à l'égard du traitement des données à caractère personnel_20180803092817041.rtf</Filename>
+                <LastModified>2013-02-15T11:59:38.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092634361">
+            <Uri>Content/version 210613 projet rglmt protection des données FR_20180803092817042.pdf</Uri>
+            <MessageDigest algorithm="SHA-512">1c536d5a336fed6acac6e65a29aca680f8159b3ae887a581d881640337d099853e09d5ea15370d528291eababa969e8fa720d00098e0b8bc653157d4f57603db</MessageDigest>
+            <Size>1454245</Size>
+            <FormatIdentification>
+                <FormatLitteral>Acrobat PDF/A - Portable Document Format</FormatLitteral>
+                <MimeType>application/pdf</MimeType>
+                <FormatId>fmt/95</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>version 210613 projet rglmt protection des données FR_20180803092817042.pdf</Filename>
+                <LastModified>2014-01-03T11:01:08.000+01:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <BinaryDataObject id="_20180803092634652">
+            <Uri>Content/version projet règlement juin 14_20180803092817043.DOC</Uri>
+            <MessageDigest algorithm="SHA-512">37174f7f644c37ef234ab09ec51c52313c9a0952684bbae88b642ae6b7523d7a83cb96c49bbff838803533c87977edbf45199b3cf6639a833cd2edfbaee90de9</MessageDigest>
+            <Size>728576</Size>
+            <FormatIdentification>
+                <FormatLitteral>Microsoft Word Document</FormatLitteral>
+                <MimeType>application/msword</MimeType>
+                <FormatId>fmt/40</FormatId>
+            </FormatIdentification>
+            <FileInfo>
+                <Filename>version projet règlement juin 14_20180803092817043.DOC</Filename>
+                <LastModified>2014-09-15T13:52:28.000+02:00</LastModified>
+            </FileInfo>
+        </BinaryDataObject>
+        <DescriptiveMetadata>
+            <ArchiveUnit id="_20180803092611769">
+                <Management/>
+                <Content>
+                    <DescriptionLevel>File</DescriptionLevel>
+                    <Title>Mentions de publication</Title>
+                    <CustodialHistory>
+                        <CustodialHistoryItem>docuteam-packer</CustodialHistoryItem>
+                        <CustodialHistoryItem>4.1.0-develop__siaf-SNAPSHOT</CustodialHistoryItem>
+                    </CustodialHistory>
+                    <Event>
+                        <EventIdentifier>_20180803092611772</EventIdentifier>
+                        <EventType>Creation</EventType>
+                        <EventDateTime>2018-08-03T09:26:11.000+02:00</EventDateTime>
+                        <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                    </Event>
+                </Content>
+                <ArchiveUnit id="_20180803092617523">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>140310-NotePlénière-Paquet-protection-des-données_20180803092816914.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-03-14</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092617683</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:17.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092611901</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092620544">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>2013 0221 af Tableau 3 colonnes_ Art1 à 21 et 81 à 83_Loi78_PropRéglement_Réunion22février2013_20180803092816915.doc</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-21</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092620590</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:20.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092617915</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092621161">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>922387en_20180803092816917.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-01-27</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092621220</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:21.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092620894</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092621366">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Art 83c juin 2014_20180803092816918.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-09-15</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092621380</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:21.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092621250</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092621443">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>avis GADS sur projet réglt UE_20180803092816919.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-13</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092621456</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:21.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092621430</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092621714">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>BBMRI ERIC_Data Protection Day of Action_Concept-1_20180803092816920.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-04-18</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092621767</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:21.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092621598</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092621827">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>cm05749en13_déc2013_20180803092816921.doc</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-01-03</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092621846</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:21.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092621811</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092621906">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>comparaison documents Règlement DAPIX COREPER_20180803092816922.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-12-07</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092621942</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:21.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092621867</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092622022">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Compil RGPDP 301115_20180803092816923.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-11-30</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092622057</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:22.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092622010</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092622630">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>comp_am_art_01-29en - albrecht_20180803092816934.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-10-24</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092622689</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:22.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092622386</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092622892">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>comp_am_art_30-91en - albrecht _20180803092816944.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-10-31</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092622928</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:22.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092622813</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092623310">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>com_2012_11_fr_20180803092816954.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2012-07-13</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092623345</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:23.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092623129</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092623553">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>courrier aviesan du 271114_20180803092816955.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-01-13</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092623581</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:23.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092623461</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092623640">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>CP DSF Allo, la NSA _ Ici c’est le Parlement européen ! 21 10 2013_20180803092816956.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-10-24</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092623655</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:23.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092623632</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092623792">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>CP LIBE 211013 adoptée du parquet protection des données_20180803092816957.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-10-24</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092623812</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:23.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092623781</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092623851">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>CR COREPER II 080513_20180803092816959.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-06-05</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092623872</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:23.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092623841</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092623918">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>CRP-27-05-15 Règlement Protection des données_20180803092816960.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-05-29</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092623928</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:23.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092623912</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092624815">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Data Protection - reform for SMEs not at their expense_20180803092816961.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-03-27</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092624842</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:24.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092624711</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092624880">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Data Protection_Compromise Amendments_10072013_20180803092816962.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-09-17</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092624906</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:24.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092624869</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092625187">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Déclaration Adelf Règlement européen données perso-V1-MG__20180803092816964.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-04</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092625200</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:25.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092625175</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092625336">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Déclaration Adelf Règlement européen données perso-V2-MG_20180803092816965.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-07</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092625352</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:25.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092625320</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092625396">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>ESBA, CEA-PME, FSB, ACT recommendations on Data Protection - reform for SMEs not at their expense_20180803092816966.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-03-27</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092625428</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:25.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092625383</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092625695">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>ESBA- CEA-PME-FSB-ACT - Suggestions for amendments_20180803092816968.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-03-27</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092625737</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:25.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092625583</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092625793">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>EU Council-Regulation-Council-Draft-Dec14_20180803092816969.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-04-18</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092625844</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:25.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092625769</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092625910">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Fiche Safe Habor octobre 2015_20180803092816970.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-10-23</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092625923</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:25.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092625898</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092626131">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>getDoc (1)_20180803092816971.doc</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-03-13</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092626338</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:26.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092625993</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092626373">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>image002_20180803092816973.jpg</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-12-07</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092626377</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:26.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092626369</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092626423">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>IP-15-5176_FR_20180803092816974.PDF</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-06-24</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092626433</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:26.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092626416</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092626478">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>JUD00019-14 DAPIX (Reglement) - Article 811_20180803092816975.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-01-14</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092626486</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:26.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092626472</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092626694">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>JUD00252-13 DAPIX 13-15 mai (Reglement)_20180803092816976.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-05-13</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092626789</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:26.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092626606</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092626910">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>JUD00372-13 DAPIX 3-4 juillet (Reglement)1_20180803092816978.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-07-11</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092626922</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:26.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092626902</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092627009">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>JUD00509-13 DAPIX (reglement) - articles 83abc1_20180803092816979.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-10-10</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092627019</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:27.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092627003</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092627114">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>JUD00509-13 DAPIX (reglement) - articles 83abc[1]_NAF_20180803092816980.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-01-03</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092627123</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:27.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092627107</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092627229">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>JUD00509-14 DAPIX (Rglmt) 30 sept- 1er oct1_20180803092816981.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-10-13</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092627239</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:27.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092627222</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092627371">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>JUD00591-15 CR réunion conséquences de l'arrêt SCHREMS du 20 oct 2015_20180803092816982.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-10-23</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092627405</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:27.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092627319</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092627481">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>LEEM - Dr ERRARD_20180803092816983.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-03-14</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092627499</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:27.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092627472</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092627719">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>lettre pdt grp statistiques_20180803092816993.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-21</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092627785</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:27.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092627639</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092627844">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Making the Case GDPR_template_V2.0_20180803092817003.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-04-18</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092627857</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:27.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092627833</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092628075">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>MEMO-14-186_EN_20180803092817013.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-03-12</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092628101</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:28.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092627967</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092628305">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>MX-M362N_20130211_143019_20180803092817014.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-14</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092628446</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:28.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092628213</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092628667">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Note cab protection des données 110515_20180803092817015.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-11-27</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092628734</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:28.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092628581</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092628931">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Note Réglement InVS V1_20180803092817016.doc</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-13</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092628952</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:28.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092628905</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092629175">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Observations CNAMTS Rapport IDS Parlement 2014_19sept2014_20180803092817018.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-09-24</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092629382</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:29.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092629086</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092629665">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Point d'étape règlement européen protection des données personnelles_20180803092817019.msg</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-11-27</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092629724</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:29.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092629555</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092630205">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Projet de Règlement - Version Cilex avec table et renvois_20180803092817020.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-01-29</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092630235</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:30.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092630067</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092630734">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Projet Europe Protection données-17 12 2012_20180803092817021.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-25</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092630797</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:30.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092630533</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092630957">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Protection des données personnelles Projet de réglement Européen-Synthèse de la position de la Cnaf-janvier 2013_mns_20180803092817022.doc</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-14</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092630970</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:30.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092630942</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092631194">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Rapport Albrecht_20180803092817024.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-04</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092631296</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:31.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092631096</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092631551">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Règlement protection des données -Tableau comparatif commission PE FR D 95-46 et LIL actualisé DGS + DRESS  (2)_20180803092817025.doc</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-15</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092631678</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:31.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092631457</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092631836">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Règlement protection des données -Tableau comparatif commission PE FR D 95-46 et LIL actualisé DGS + DRESS  (2)_20180803092817026.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-13</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092631874</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:31.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092631785</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092632009">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>ST08309 EN15_20180803092817027.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-04-30</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092632026</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:32.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092631996</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092632222">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>ST09565.FR15[1]_20180803092817029.DOCX</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-06-24</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092632256</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:32.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092632180</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092632358">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>ST14270-RE01 EN14_20180803092817030.DOC</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-11-03</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092632391</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:32.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092632324</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092632505">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>st14481.en15_20180803092817032.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-11-30</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092632537</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:32.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092632480</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092632645">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>st14901.en15_20180803092817033.docx</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-12-07</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092632662</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:32.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092632631</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092632754">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>st16140 en14_20180803092817034.doc</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-12-03</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092632781</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:32.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092632722</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092632849">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>st17971.en13_20180803092817035.doc</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-01-03</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092632865</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:32.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092632836</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092632920">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>TD COREPER 240513_20180803092817037.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-06-10</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092632938</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:32.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092632910</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092633210">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>TD DAPIX 13 15 05 13_20180803092817038.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-06-10</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092633262</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:33.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092633174</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092633380">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>texte agréé chap II VI VII_20180803092817039.DOCX</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2015-04-01</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092633406</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:33.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092633362</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092633739">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>Texte ParlementST07427.EN14_20180803092817040.DOC</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-03-24</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092633861</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:33.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092633641</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092634175">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>TR proposition de règlement relatif à la protection des personnes à l'égard du traitement des données à caractère personnel_20180803092817041.rtf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2013-02-15</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092634236</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:34.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092634103</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092634454">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>version 210613 projet rglmt protection des données FR_20180803092817042.pdf</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-01-03</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092634565</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:34.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092634361</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+                <ArchiveUnit id="_20180803092634707">
+                    <Management/>
+                    <Content>
+                        <DescriptionLevel>File</DescriptionLevel>
+                        <Title>version projet règlement juin 14_20180803092817043.DOC</Title>
+                        <Type>CDO</Type>
+                        <StartDate>2014-09-15</StartDate>
+                        <Event>
+                            <EventIdentifier>_20180803092634782</EventIdentifier>
+                            <EventType>Creation</EventType>
+                            <EventDateTime>2018-08-03T09:26:34.000+02:00</EventDateTime>
+                            <EventDetail>Performed by: 'i.perez-bastie'</EventDetail>
+                        </Event>
+                    </Content>
+                    <DataObjectReference>
+                        <DataObjectReferenceId>_20180803092634652</DataObjectReferenceId>
+                    </DataObjectReference>
+                </ArchiveUnit>
+            </ArchiveUnit>
+        </DescriptiveMetadata>
+        <ManagementMetadata/>
+    </DataObjectPackage>
+    <ArchivalAgency>
+        <Identifier>arch01</Identifier>
+    </ArchivalAgency>
+    <TransferringAgency>
+        <Identifier>prod01</Identifier>
+    </TransferringAgency>
+</ArchiveTransfer>
